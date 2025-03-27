@@ -1,0 +1,11 @@
+This game initializes with pieces in their starting positions. Players click on their pieces to select them. Valid moves are only highlighted on the board. 
+Clicking on a valid square with round white highlights can moves the piece.
+Turns it to alternative players.
+Moves are stored in history for the memorization of the game and to use the undo feature and learn from mistakes.
+
+Technical Implementation of this Project:
+It Used CSS Grid for the chessboard layout and employs event delegation for handling piece movements.
+Implemented object-oriented programming with the "ChessGame" class.
+DOM manipulation for updating the game state.
+Leverage CSS transitions for smooth visual effects and website handling
+I've used chess piece images instead of Unicode characters.
